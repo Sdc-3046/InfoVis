@@ -1,0 +1,7562 @@
+[
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 224.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 70.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 65.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1552.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 781.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 239.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 49.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 46.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 93.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 44.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 23.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 255.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 126.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 105.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 215.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 67.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 58.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1426.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 731.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 210.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 78.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 47.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 38.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 83.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 21.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 180.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 100.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 57.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 52.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 16.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 301.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 42.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 24.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 27.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 20.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 23.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 47.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 240.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 58.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 28.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 17.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 24.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 172.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 62.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 49.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1251.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 684.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 197.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 89.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 44.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 22.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 66.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 42.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 17.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 235.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 116.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 82.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 168.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 60.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 47.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1186.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 673.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 182.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 76.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 44.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 21.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 59.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 17.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 174.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 98.0
+  },
+  {
+    "Year": 2010,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 49.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 104.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 126.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 995.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 922.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 325.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 48.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 85.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 83.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 56.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 64.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 73.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 195.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 176.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 130.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 90.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 128.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 117.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 869.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 959.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 326.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 44.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 80.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 79.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 49.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 65.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 74.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 147.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 81.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 110.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 38.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 22.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 34.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 26.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 35.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 73.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 28.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 30.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 17.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 29.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 94.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 116.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 87.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 885.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 884.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 284.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 81.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 61.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 46.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 57.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 180.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 166.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 104.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 84.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 125.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 82.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 796.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 931.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 296.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 36.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 77.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 62.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 42.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 59.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 45.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 143.0
+  },
+  {
+    "Year": 2011,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 75.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 133.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 162.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 103.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1041.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1355.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 618.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 65.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 75.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 38.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 77.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 90.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 76.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 197.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 220.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 145.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 135.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 156.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 107.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1047.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1408.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 633.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 63.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 79.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 76.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 90.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 67.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 179.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 226.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 139.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 84.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 46.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 16.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 61.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 36.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 124.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 151.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 100.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 957.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1309.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 577.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 63.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 75.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 29.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 66.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 84.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 69.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 189.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 210.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 129.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 130.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 150.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 104.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 986.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1367.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 597.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 62.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 79.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 30.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 65.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 85.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 63.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 176.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 221.0
+  },
+  {
+    "Year": 2012,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 130.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 115.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 188.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 196.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1190.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1644.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 809.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 63.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 116.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 71.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 100.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 81.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 192.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 268.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 170.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 195.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 206.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1133.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1636.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 846.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 62.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 112.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 69.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 117.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 95.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 183.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 270.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 182.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 90.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 48.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 23.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 71.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 38.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 37.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 22.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 12.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 112.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 185.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 192.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1100.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1596.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 770.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 63.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 115.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 68.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 77.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 104.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 67.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 187.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 259.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 163.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 108.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 190.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 204.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1062.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1598.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 809.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 61.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 67.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 75.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 109.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 83.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 178.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 263.0
+  },
+  {
+    "Year": 2013,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 181.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 165.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 268.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 308.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1287.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2097.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1172.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 103.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 167.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 164.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 94.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 165.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 164.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 218.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 367.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 335.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 166.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 278.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 321.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1260.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2108.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1216.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 180.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 170.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 96.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 164.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 167.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 222.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 367.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 341.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 99.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 58.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 53.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 12.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 12.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 98.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 67.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 12.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 159.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 257.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 300.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1188.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2039.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1119.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 102.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 164.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 162.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 84.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 156.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 159.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 210.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 355.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 323.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 160.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 267.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 312.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1162.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2041.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1175.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 177.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 166.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 86.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 155.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 162.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 218.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 357.0
+  },
+  {
+    "Year": 2014,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 329.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 188.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 317.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 370.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1371.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2368.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1221.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 238.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 203.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 93.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 218.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 217.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 231.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 424.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 339.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 183.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 312.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 361.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1361.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2329.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1145.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 120.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 235.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 191.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 94.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 213.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 211.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 227.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 417.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 330.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 81.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 119.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 36.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 21.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 73.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 118.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 35.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 13.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 22.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 184.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 310.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 356.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1290.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2249.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1185.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 237.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 201.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 85.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 209.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 213.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 216.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 403.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 332.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 180.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 306.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 350.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1288.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2211.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1110.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 120.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 234.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 191.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 85.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 205.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 207.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 214.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 395.0
+  },
+  {
+    "Year": 2015,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 326.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 186.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 265.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 304.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1541.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2428.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1224.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 119.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 221.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 200.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 109.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 241.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 234.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 210.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 395.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 337.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 187.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 256.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 288.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1567.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2391.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1225.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 115.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 211.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 205.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 253.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 232.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 203.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 379.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 331.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 21.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 173.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 210.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 74.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 19.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 19.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 18.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 22.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 13.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 178.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 205.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 73.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 21.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 18.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 21.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 16.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 165.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 250.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 290.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1368.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2218.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1150.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 117.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 216.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 195.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 90.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 227.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 227.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 191.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 377.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 331.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 165.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 243.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 279.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1389.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2186.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1152.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 115.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 206.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 201.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 90.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 235.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 224.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 182.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 363.0
+  },
+  {
+    "Year": 2016,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 328.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 209.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 333.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 329.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1775.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2584.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1129.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 128.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 243.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 247.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 147.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 204.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 198.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 295.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 400.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 380.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 212.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 335.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 352.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1747.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2573.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1101.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 129.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 244.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 257.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 141.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 199.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 213.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 284.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 403.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 355.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 30.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 32.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 40.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 266.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 255.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 70.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 18.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 20.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 13.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 31.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 33.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 267.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 273.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 66.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 38.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 19.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 179.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 301.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 289.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1509.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2329.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1059.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 237.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 245.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 106.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 186.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 193.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 284.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 380.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 367.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 181.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 302.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 311.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1480.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2300.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1035.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 239.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 256.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 103.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 184.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 204.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 275.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 384.0
+  },
+  {
+    "Year": 2017,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 341.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 197.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 354.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 288.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1788.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2603.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 974.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 143.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 240.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 218.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 117.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 236.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 205.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 266.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 436.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 320.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 198.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 354.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 256.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1804.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2611.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 960.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 152.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 245.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 197.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 119.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 230.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 182.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 267.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 448.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 317.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 28.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 32.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 305.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 377.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 74.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 13.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 30.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 16.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 27.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 26.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 33.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 317.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 369.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 76.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 13.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 30.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 27.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 41.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 169.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 322.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 279.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1483.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2226.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 900.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 137.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 227.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 213.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 87.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 220.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 196.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 239.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 397.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 315.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 172.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 321.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 248.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1487.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2242.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 884.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 145.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 232.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 192.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 89.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 215.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 179.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 240.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 407.0
+  },
+  {
+    "Year": 2018,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 313.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 202.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 330.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 224.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1874.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2662.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 822.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 174.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 243.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 183.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 142.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 260.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 160.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 278.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 470.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 257.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 204.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 327.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 227.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1872.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2652.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 882.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 163.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 234.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 185.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 144.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 265.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 161.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 282.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 466.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 250.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 26.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 248.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 248.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 42.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 17.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 45.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 24.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 56.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 24.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 221.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 237.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 109.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 17.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 47.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 12.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 28.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 59.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 187.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 304.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 221.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1626.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2414.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 780.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 165.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 226.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 175.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 249.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 157.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 254.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 414.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 248.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 189.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 303.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 224.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1651.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2415.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 773.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 155.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 217.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 177.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 253.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 158.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 254.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 407.0
+  },
+  {
+    "Year": 2019,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 240.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 174.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 302.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 129.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1520.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1969.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 568.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 110.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 206.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 102.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 125.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 238.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 299.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 382.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 170.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 168.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 305.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 124.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1507.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1963.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 483.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 113.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 208.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 96.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 240.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 295.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 384.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 174.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 27.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 36.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 121.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 158.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 95.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 15.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 47.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 23.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 55.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 40.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 27.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 38.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 125.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 166.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 29.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 14.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 48.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 22.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 54.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 38.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 147.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 266.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 125.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1399.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1811.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 473.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 95.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 192.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 101.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 78.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 215.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 244.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 342.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 166.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 141.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 267.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 120.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1382.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1797.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 454.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 99.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 194.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 95.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 75.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 218.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 111.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 241.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 346.0
+  },
+  {
+    "Year": 2020,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 172.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 191.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 332.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 161.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1810.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2618.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 647.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 120.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 233.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 163.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 292.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 163.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 333.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 445.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 262.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 195.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 322.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 168.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1796.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2609.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 641.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 237.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 162.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 282.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 161.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 338.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 437.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 254.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 52.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 50.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 129.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 188.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 29.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 28.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 35.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 53.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 48.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 176.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 37.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 26.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 25.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 34.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 139.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 282.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 159.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1681.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2430.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 608.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 120.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 232.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 134.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 281.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 163.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 305.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 410.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 255.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 142.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 274.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 166.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1674.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2433.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 604.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 236.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 122.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 136.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 271.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 160.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 313.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 403.0
+  },
+  {
+    "Year": 2021,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 245.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 244.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 354.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 212.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1838.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2750.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 647.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 163.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 270.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 147.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 198.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 338.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 123.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 341.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 484.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 255.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 246.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 364.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 209.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1830.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2728.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 658.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 162.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 270.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 154.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 200.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 342.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 117.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 336.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 480.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 253.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 39.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 33.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 78.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 120.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 37.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 7.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 66.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 45.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 17.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 3.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 40.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 34.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 80.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 119.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 33.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 6.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 68.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 47.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 5.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 4.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 18.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 1.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 205.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 321.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 206.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1760.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2630.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 610.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 156.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 264.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 146.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 132.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 293.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 117.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 338.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 467.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 252.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 206.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 330.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 203.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1750.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2609.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 625.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 154.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 264.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 153.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 132.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 295.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 112.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 332.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 462.0
+  },
+  {
+    "Year": 2022,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 252.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 277.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 470.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 237.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1975.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2875.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 659.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 156.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 273.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 132.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 228.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 312.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 138.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 352.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 462.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 233.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 279.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 478.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 244.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1995.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2916.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 642.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 154.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 271.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 127.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 230.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 325.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 141.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 353.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 466.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 231.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 88.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 81.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 25.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 77.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 101.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 21.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 10.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 85.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 56.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 18.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 12.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 93.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 85.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 28.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 78.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 97.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 22.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 8.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 11.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 0.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 87.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 59.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 2.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 18.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 9.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 12.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 189.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 389.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 212.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1898.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2774.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 638.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 147.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 263.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 132.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 143.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 256.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 136.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 334.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 451.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 221.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 186.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 393.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Galway City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 216.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 1917.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 2819.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Dublin City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 620.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 146.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 260.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Limerick City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 127.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 143.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 266.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Waterford City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 139.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "First-Time Buyer",
+    "SalesVolume": 335.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Former Owner-Occupier",
+    "SalesVolume": 457.0
+  },
+  {
+    "Year": 2023,
+    "RPPI Region": "Cork City",
+    "Type of Buyer": "Non-Occupier",
+    "SalesVolume": 219.0
+  }
+]
