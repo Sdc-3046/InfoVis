@@ -1,2537 +1,3152 @@
-{
-    "2010": {
-        "national_median_price": 220662.5,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 152500.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 178875.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 149500.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 175000.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 227500.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 228318.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 159000.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 261562.5
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 250000.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 322625.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 263604.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 240749.5
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 197000.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 194375.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 234850.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 175462.5
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 157500.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 144000.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 189082.5
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 187650.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 148750.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 186937.5
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 170750.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 220000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 228212.5
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 181800.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 158500.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 157001.5
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 158599.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 152180.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 161125.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 255594.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 179500.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 220331.5
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 171260.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 185000.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 196250.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 195000.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 160000.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 174759.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 265000.0
-            }
-        ]
+[
+    {
+        "YEAR": 2010,
+        "RPPI Region": "National Median",
+        "VALUE": 220662.5
     },
-    "2011": {
-        "national_median_price": 186421.5,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 130131.5
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 130000.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 130000.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 149625.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 185387.5
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 193500.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 136200.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 239175.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 212500.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 310000.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 240000.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 205000.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 155000.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 172875.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 202500.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 145250.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 124962.5
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 117652.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 168500.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 165000.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 104078.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 195000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 198712.5
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 160000.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 127500.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 135919.5
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 128750.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 115000.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 124850.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 232500.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 145000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 189510.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 151828.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 129500.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 160875.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 160250.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 132387.5
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 146000.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 221250.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 152500.0
     },
-    "2012": {
-        "national_median_price": 164575.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 109500.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 103075.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 102112.5
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 129000.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 162500.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 165000.5
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 113125.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 207459.5
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 199000.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 288812.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 192000.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 163787.5
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 153272.5
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 147500.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 178000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 125000.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 91109.5
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 90700.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 147993.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 75413.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 133500.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 123000.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 157500.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 171147.5
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 137500.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 100000.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 120000.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 111500.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 87000.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 110000.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 199999.5
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 120000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 160000.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 121520.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 113000.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 140125.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 136845.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 109000.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 115000.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 200000.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Carlow",
+        "VALUE": 178875.0
     },
-    "2013": {
-        "national_median_price": 155000.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 87750.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 110586.5
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 85125.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 118875.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 140250.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 157987.5
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 94000.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 221294.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 194750.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 342500.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 207587.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 169750.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 129695.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 127000.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 185000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 123875.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 90400.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 72194.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 132500.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 134499.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 62812.5
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 120250.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 109500.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 165500.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 120000.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 88250.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 85562.5
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 91875.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 70000.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 98230.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 211459.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 114135.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 99000.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 92500.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 123750.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 113662.5
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 95500.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 102750.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 192500.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Cavan",
+        "VALUE": 149500.0
     },
-    "2014": {
-        "national_median_price": 170000.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 88388.5
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 116250.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 79862.5
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 116375.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 165000.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 167641.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 87750.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 274500.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 236165.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 432375.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 243125.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 186250.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 125000.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 119793.5
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 219000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 125000.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 91000.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 60770.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 111000.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 128000.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 68000.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 130875.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 91000.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 175000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 184541.5
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 119587.5
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 95612.5
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 98612.5
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 99431.5
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 69250.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 115000.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 243725.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 121000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 158000.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 107480.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 95535.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 135500.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 119087.5
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 112370.5
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 119375.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 230000.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Clare",
+        "VALUE": 175000.0
     },
-    "2015": {
-        "national_median_price": 183500.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 96879.5
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 125000.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 86279.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 116500.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 179250.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 179300.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 105713.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 305974.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 282500.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 440000.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 280974.5
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 207500.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 135168.5
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 130000.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 235000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 150827.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 120000.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 75500.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 124000.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 138875.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 65000.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 144000.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 102210.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 191250.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 207500.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 127500.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 107349.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 107639.5
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 107500.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 79725.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 108912.5
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 281250.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 129480.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 171500.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 125000.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 120000.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 139969.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 126500.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 123361.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 127500.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 252500.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Cork City",
+        "VALUE": 227500.0
     },
-    "2016": {
-        "national_median_price": 204750.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 112250.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 142000.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 108125.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 134497.5
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 198125.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 200000.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 109000.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 330000.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 313623.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 465250.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 293805.5
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 219457.5
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 154456.5
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 135499.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 255915.5
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 167001.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 140625.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 90000.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 140000.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 165375.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 81351.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 160250.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 118999.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 220000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 232500.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 145000.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 128250.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 111750.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 80000.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 125375.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 298875.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 147384.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 186250.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 130250.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 132750.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 157952.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 145210.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 132805.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 140469.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 269875.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Cork County",
+        "VALUE": 228318.0
     },
-    "2017": {
-        "national_median_price": 232000.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 128625.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 145500.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 135890.5
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 158500.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 229000.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 218000.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 124500.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 344625.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 340499.5
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 521000.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 317149.5
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 242000.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 168474.5
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 155000.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 273499.5
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 165000.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 154985.5
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 96744.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 155250.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 182250.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 95869.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 183000.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 135000.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 251000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 255891.5
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 157250.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 145250.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 146125.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 152500.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 103987.5
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 128131.5
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 312500.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 162000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 210000.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 140000.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 157500.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 182500.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 161375.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 154750.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 157500.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 303999.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Donegal",
+        "VALUE": 159000.0
     },
-    "2018": {
-        "national_median_price": 257475.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 135000.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 175000.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 147000.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 176500.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 245500.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 242250.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 129000.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 366372.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 375000.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 529999.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 325000.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 269500.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 186475.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 164425.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 292000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 196625.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 168625.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 106625.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 178500.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 198500.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 101500.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 214250.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 135000.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 270000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 271250.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 177000.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 162500.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 164500.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 165000.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 116500.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 141421.5
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 327737.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 181000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 223750.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 153500.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 167750.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 191839.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 174375.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 179000.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 172750.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 315000.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Dublin",
+        "VALUE": 261562.5
     },
-    "2019": {
-        "national_median_price": 259500.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 147750.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 172000.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 155000.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 187000.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 257500.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 252500.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 139000.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 369000.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 358500.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 517500.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 342500.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 283500.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 212500.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 174250.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 305862.5
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 198870.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 181131.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 110000.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 172500.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 218750.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 128750.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 211750.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 147500.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 289999.5
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 288125.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 185125.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 176250.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 170000.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 166625.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 130500.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 345000.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 184100.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 238750.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 165500.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 172000.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 202750.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 183500.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 187500.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 180000.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 329999.5
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Dublin City",
+        "VALUE": 250000.0
     },
-    "2020": {
-        "national_median_price": 260000.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 144750.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 184000.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 152500.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 187500.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 263250.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 265750.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 140000.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 382500.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 366000.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 528500.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 357749.5
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 280000.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 231442.5
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 185625.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 323000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 209750.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 185000.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 110000.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 200000.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 215250.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 115000.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 215000.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 140469.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 285000.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 295000.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 185500.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 176000.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 175000.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 172500.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 113100.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 146500.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 356875.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 200000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 250000.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 165000.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 175000.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 219414.5
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 181250.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 189987.5
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 191250.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 347750.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 322625.0
     },
-    "2021": {
-        "national_median_price": 281000.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 162975.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 207750.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 173500.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 208333.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 283000.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 277500.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 143750.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 405250.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 410000.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 590000.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 385000.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 319375.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 235750.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 200000.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 338313.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 235000.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 207475.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 150000.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 197500.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 236500.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 140000.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 240000.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 169250.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 300023.5
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 318500.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 210000.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 195081.5
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 175750.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 194000.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 148703.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 169200.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 372499.5
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 221000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 265000.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 186625.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 195000.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 240000.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 200000.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 212500.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 220000.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 385000.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Fingal",
+        "VALUE": 263604.0
     },
-    "2022": {
-        "national_median_price": 311000.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 188500.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 227500.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 190000.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 240000.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 292887.5
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 304200.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 174500.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 432500.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 427750.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 623750.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 401500.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 317375.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 273750.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 232750.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 370000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 248500.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 225000.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 167250.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 231000.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 257500.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 163750.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 258250.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 189000.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 325950.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 344999.5
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 232000.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 223500.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 210000.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 228750.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 165000.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 202500.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 397482.5
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 246500.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 293775.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 195000.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 231500.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 281000.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 234000.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 245375.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 245000.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 423875.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Galway City",
+        "VALUE": 240749.5
     },
-    "2023": {
-        "national_median_price": 335000.0,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 191975.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 244250.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 200500.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 248500.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 311000.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 332500.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 182500.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 455000.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 427500.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 617500.0
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 405500.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 336500.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 277500.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 245222.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 395000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 272500.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 251800.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 175000.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 237000.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 275000.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 170000.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 284375.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 200000.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 351250.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 371000.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 243250.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 240750.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 212500.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 236250.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 179500.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 200000.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 420000.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 266000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 315750.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 217750.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 227500.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 297610.5
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 250000.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 243250.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 263625.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 429999.5
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Galway County",
+        "VALUE": 197000.0
     },
-    "2024": {
-        "national_median_price": 361262.5,
-        "locations": [
-            {
-                "RPPI Region": "Border Excluding Louth",
-                "location_median_price": 211000.0
-            },
-            {
-                "RPPI Region": "Carlow",
-                "location_median_price": 259500.0
-            },
-            {
-                "RPPI Region": "Cavan",
-                "location_median_price": 223625.0
-            },
-            {
-                "RPPI Region": "Clare",
-                "location_median_price": 274375.0
-            },
-            {
-                "RPPI Region": "Cork City",
-                "location_median_price": 335000.0
-            },
-            {
-                "RPPI Region": "Cork County",
-                "location_median_price": 352500.0
-            },
-            {
-                "RPPI Region": "Donegal",
-                "location_median_price": 191000.0
-            },
-            {
-                "RPPI Region": "Dublin",
-                "location_median_price": 475000.0
-            },
-            {
-                "RPPI Region": "Dublin City",
-                "location_median_price": 464225.0
-            },
-            {
-                "RPPI Region": "D\u00fan Laoghaire-Rathdown",
-                "location_median_price": 654999.5
-            },
-            {
-                "RPPI Region": "Fingal",
-                "location_median_price": 435750.0
-            },
-            {
-                "RPPI Region": "Galway City",
-                "location_median_price": 375000.0
-            },
-            {
-                "RPPI Region": "Galway County",
-                "location_median_price": 307750.0
-            },
-            {
-                "RPPI Region": "Kerry",
-                "location_median_price": 265000.0
-            },
-            {
-                "RPPI Region": "Kildare",
-                "location_median_price": 403000.0
-            },
-            {
-                "RPPI Region": "Kilkenny",
-                "location_median_price": 300000.0
-            },
-            {
-                "RPPI Region": "Laois",
-                "location_median_price": 265500.0
-            },
-            {
-                "RPPI Region": "Leitrim",
-                "location_median_price": 190250.0
-            },
-            {
-                "RPPI Region": "Limerick City",
-                "location_median_price": 267750.0
-            },
-            {
-                "RPPI Region": "Limerick County",
-                "location_median_price": 318375.0
-            },
-            {
-                "RPPI Region": "Longford",
-                "location_median_price": 185000.0
-            },
-            {
-                "RPPI Region": "Louth",
-                "location_median_price": 322500.0
-            },
-            {
-                "RPPI Region": "Mayo",
-                "location_median_price": 227500.0
-            },
-            {
-                "RPPI Region": "Meath",
-                "location_median_price": 371250.0
-            },
-            {
-                "RPPI Region": "Mid-East including Louth",
-                "location_median_price": 389984.0
-            },
-            {
-                "RPPI Region": "Mid-West including South Tipperary",
-                "location_median_price": 271000.0
-            },
-            {
-                "RPPI Region": "Midland",
-                "location_median_price": 260000.0
-            },
-            {
-                "RPPI Region": "Monaghan",
-                "location_median_price": 230500.0
-            },
-            {
-                "RPPI Region": "Offaly",
-                "location_median_price": 254000.0
-            },
-            {
-                "RPPI Region": "Roscommon",
-                "location_median_price": 190000.0
-            },
-            {
-                "RPPI Region": "Sligo",
-                "location_median_price": 252500.0
-            },
-            {
-                "RPPI Region": "South Dublin",
-                "location_median_price": 450750.0
-            },
-            {
-                "RPPI Region": "South-East excluding South Tipperary",
-                "location_median_price": 292000.0
-            },
-            {
-                "RPPI Region": "South-West",
-                "location_median_price": 338875.0
-            },
-            {
-                "RPPI Region": "Tipperary",
-                "location_median_price": 235375.0
-            },
-            {
-                "RPPI Region": "Waterford City",
-                "location_median_price": 250000.0
-            },
-            {
-                "RPPI Region": "Waterford County",
-                "location_median_price": 335000.0
-            },
-            {
-                "RPPI Region": "West",
-                "location_median_price": 272500.0
-            },
-            {
-                "RPPI Region": "Westmeath",
-                "location_median_price": 285500.0
-            },
-            {
-                "RPPI Region": "Wexford",
-                "location_median_price": 287500.0
-            },
-            {
-                "RPPI Region": "Wicklow",
-                "location_median_price": 445000.0
-            }
-        ]
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Kerry",
+        "VALUE": 194375.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Kildare",
+        "VALUE": 234850.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 175462.5
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Laois",
+        "VALUE": 157500.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Leitrim",
+        "VALUE": 144000.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Limerick City",
+        "VALUE": 189082.5
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Limerick County",
+        "VALUE": 187650.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Longford",
+        "VALUE": 148750.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Louth",
+        "VALUE": 186937.5
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Mayo",
+        "VALUE": 170750.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Meath",
+        "VALUE": 220000.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 228212.5
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 181800.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Midland",
+        "VALUE": 158500.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Monaghan",
+        "VALUE": 157001.5
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Offaly",
+        "VALUE": 158599.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Roscommon",
+        "VALUE": 152180.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Sligo",
+        "VALUE": 161125.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "South Dublin",
+        "VALUE": 255594.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 179500.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "South-West",
+        "VALUE": 220331.5
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Tipperary",
+        "VALUE": 171260.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Waterford City",
+        "VALUE": 185000.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Waterford County",
+        "VALUE": 196250.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "West",
+        "VALUE": 195000.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Westmeath",
+        "VALUE": 160000.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Wexford",
+        "VALUE": 174759.0
+    },
+    {
+        "YEAR": 2010,
+        "RPPI Region": "Wicklow",
+        "VALUE": 265000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "National Median",
+        "VALUE": 186421.5
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 130131.5
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Carlow",
+        "VALUE": 130000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Cavan",
+        "VALUE": 130000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Clare",
+        "VALUE": 149625.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Cork City",
+        "VALUE": 185387.5
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Cork County",
+        "VALUE": 193500.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Donegal",
+        "VALUE": 136200.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Dublin",
+        "VALUE": 239175.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Dublin City",
+        "VALUE": 212500.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 310000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Fingal",
+        "VALUE": 240000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Galway City",
+        "VALUE": 205000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Galway County",
+        "VALUE": 155000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Kerry",
+        "VALUE": 172875.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Kildare",
+        "VALUE": 202500.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 145250.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Laois",
+        "VALUE": 124962.5
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Leitrim",
+        "VALUE": 117652.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Limerick City",
+        "VALUE": 168500.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Limerick County",
+        "VALUE": 165000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Longford",
+        "VALUE": 104078.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Louth",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Mayo",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Meath",
+        "VALUE": 195000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 198712.5
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 160000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Midland",
+        "VALUE": 127500.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Monaghan",
+        "VALUE": 135919.5
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Offaly",
+        "VALUE": 128750.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Roscommon",
+        "VALUE": 115000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Sligo",
+        "VALUE": 124850.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "South Dublin",
+        "VALUE": 232500.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 145000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "South-West",
+        "VALUE": 189510.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Tipperary",
+        "VALUE": 151828.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Waterford City",
+        "VALUE": 129500.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Waterford County",
+        "VALUE": 160875.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "West",
+        "VALUE": 160250.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Westmeath",
+        "VALUE": 132387.5
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Wexford",
+        "VALUE": 146000.0
+    },
+    {
+        "YEAR": 2011,
+        "RPPI Region": "Wicklow",
+        "VALUE": 221250.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "National Median",
+        "VALUE": 164575.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 109500.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Carlow",
+        "VALUE": 103075.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Cavan",
+        "VALUE": 102112.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Clare",
+        "VALUE": 129000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Cork City",
+        "VALUE": 162500.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Cork County",
+        "VALUE": 165000.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Donegal",
+        "VALUE": 113125.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Dublin",
+        "VALUE": 207459.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Dublin City",
+        "VALUE": 199000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 288812.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Fingal",
+        "VALUE": 192000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Galway City",
+        "VALUE": 163787.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Galway County",
+        "VALUE": 153272.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Kerry",
+        "VALUE": 147500.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Kildare",
+        "VALUE": 178000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 125000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Laois",
+        "VALUE": 91109.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Leitrim",
+        "VALUE": 90700.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Limerick City",
+        "VALUE": 147993.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Limerick County",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Longford",
+        "VALUE": 75413.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Louth",
+        "VALUE": 133500.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Mayo",
+        "VALUE": 123000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Meath",
+        "VALUE": 157500.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 171147.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 137500.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Midland",
+        "VALUE": 100000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Monaghan",
+        "VALUE": 120000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Offaly",
+        "VALUE": 111500.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Roscommon",
+        "VALUE": 87000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Sligo",
+        "VALUE": 110000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "South Dublin",
+        "VALUE": 199999.5
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 120000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "South-West",
+        "VALUE": 160000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Tipperary",
+        "VALUE": 121520.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Waterford City",
+        "VALUE": 113000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Waterford County",
+        "VALUE": 140125.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "West",
+        "VALUE": 136845.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Westmeath",
+        "VALUE": 109000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Wexford",
+        "VALUE": 115000.0
+    },
+    {
+        "YEAR": 2012,
+        "RPPI Region": "Wicklow",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "National Median",
+        "VALUE": 155000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 87750.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Carlow",
+        "VALUE": 110586.5
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Cavan",
+        "VALUE": 85125.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Clare",
+        "VALUE": 118875.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Cork City",
+        "VALUE": 140250.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Cork County",
+        "VALUE": 157987.5
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Donegal",
+        "VALUE": 94000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Dublin",
+        "VALUE": 221294.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Dublin City",
+        "VALUE": 194750.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 342500.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Fingal",
+        "VALUE": 207587.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Galway City",
+        "VALUE": 169750.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Galway County",
+        "VALUE": 129695.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Kerry",
+        "VALUE": 127000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Kildare",
+        "VALUE": 185000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 123875.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Laois",
+        "VALUE": 90400.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Leitrim",
+        "VALUE": 72194.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Limerick City",
+        "VALUE": 132500.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Limerick County",
+        "VALUE": 134499.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Longford",
+        "VALUE": 62812.5
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Louth",
+        "VALUE": 120250.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Mayo",
+        "VALUE": 109500.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Meath",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 165500.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 120000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Midland",
+        "VALUE": 88250.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Monaghan",
+        "VALUE": 85562.5
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Offaly",
+        "VALUE": 91875.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Roscommon",
+        "VALUE": 70000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Sligo",
+        "VALUE": 98230.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "South Dublin",
+        "VALUE": 211459.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 114135.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "South-West",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Tipperary",
+        "VALUE": 99000.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Waterford City",
+        "VALUE": 92500.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Waterford County",
+        "VALUE": 123750.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "West",
+        "VALUE": 113662.5
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Westmeath",
+        "VALUE": 95500.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Wexford",
+        "VALUE": 102750.0
+    },
+    {
+        "YEAR": 2013,
+        "RPPI Region": "Wicklow",
+        "VALUE": 192500.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "National Median",
+        "VALUE": 170000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 88388.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Carlow",
+        "VALUE": 116250.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Cavan",
+        "VALUE": 79862.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Clare",
+        "VALUE": 116375.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Cork City",
+        "VALUE": 165000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Cork County",
+        "VALUE": 167641.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Donegal",
+        "VALUE": 87750.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Dublin",
+        "VALUE": 274500.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Dublin City",
+        "VALUE": 236165.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 432375.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Fingal",
+        "VALUE": 243125.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Galway City",
+        "VALUE": 186250.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Galway County",
+        "VALUE": 125000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Kerry",
+        "VALUE": 119793.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Kildare",
+        "VALUE": 219000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 125000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Laois",
+        "VALUE": 91000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Leitrim",
+        "VALUE": 60770.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Limerick City",
+        "VALUE": 111000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Limerick County",
+        "VALUE": 128000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Longford",
+        "VALUE": 68000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Louth",
+        "VALUE": 130875.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Mayo",
+        "VALUE": 91000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Meath",
+        "VALUE": 175000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 184541.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 119587.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Midland",
+        "VALUE": 95612.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Monaghan",
+        "VALUE": 98612.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Offaly",
+        "VALUE": 99431.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Roscommon",
+        "VALUE": 69250.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Sligo",
+        "VALUE": 115000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "South Dublin",
+        "VALUE": 243725.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 121000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "South-West",
+        "VALUE": 158000.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Tipperary",
+        "VALUE": 107480.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Waterford City",
+        "VALUE": 95535.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Waterford County",
+        "VALUE": 135500.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "West",
+        "VALUE": 119087.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Westmeath",
+        "VALUE": 112370.5
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Wexford",
+        "VALUE": 119375.0
+    },
+    {
+        "YEAR": 2014,
+        "RPPI Region": "Wicklow",
+        "VALUE": 230000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "National Median",
+        "VALUE": 183500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 96879.5
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Carlow",
+        "VALUE": 125000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Cavan",
+        "VALUE": 86279.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Clare",
+        "VALUE": 116500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Cork City",
+        "VALUE": 179250.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Cork County",
+        "VALUE": 179300.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Donegal",
+        "VALUE": 105713.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Dublin",
+        "VALUE": 305974.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Dublin City",
+        "VALUE": 282500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 440000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Fingal",
+        "VALUE": 280974.5
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Galway City",
+        "VALUE": 207500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Galway County",
+        "VALUE": 135168.5
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Kerry",
+        "VALUE": 130000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Kildare",
+        "VALUE": 235000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 150827.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Laois",
+        "VALUE": 120000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Leitrim",
+        "VALUE": 75500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Limerick City",
+        "VALUE": 124000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Limerick County",
+        "VALUE": 138875.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Longford",
+        "VALUE": 65000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Louth",
+        "VALUE": 144000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Mayo",
+        "VALUE": 102210.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Meath",
+        "VALUE": 191250.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 207500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 127500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Midland",
+        "VALUE": 107349.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Monaghan",
+        "VALUE": 107639.5
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Offaly",
+        "VALUE": 107500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Roscommon",
+        "VALUE": 79725.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Sligo",
+        "VALUE": 108912.5
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "South Dublin",
+        "VALUE": 281250.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 129480.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "South-West",
+        "VALUE": 171500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Tipperary",
+        "VALUE": 125000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Waterford City",
+        "VALUE": 120000.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Waterford County",
+        "VALUE": 139969.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "West",
+        "VALUE": 126500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Westmeath",
+        "VALUE": 123361.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Wexford",
+        "VALUE": 127500.0
+    },
+    {
+        "YEAR": 2015,
+        "RPPI Region": "Wicklow",
+        "VALUE": 252500.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "National Median",
+        "VALUE": 204750.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 112250.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Carlow",
+        "VALUE": 142000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Cavan",
+        "VALUE": 108125.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Clare",
+        "VALUE": 134497.5
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Cork City",
+        "VALUE": 198125.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Cork County",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Donegal",
+        "VALUE": 109000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Dublin",
+        "VALUE": 330000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Dublin City",
+        "VALUE": 313623.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 465250.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Fingal",
+        "VALUE": 293805.5
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Galway City",
+        "VALUE": 219457.5
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Galway County",
+        "VALUE": 154456.5
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Kerry",
+        "VALUE": 135499.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Kildare",
+        "VALUE": 255915.5
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 167001.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Laois",
+        "VALUE": 140625.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Leitrim",
+        "VALUE": 90000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Limerick City",
+        "VALUE": 140000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Limerick County",
+        "VALUE": 165375.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Longford",
+        "VALUE": 81351.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Louth",
+        "VALUE": 160250.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Mayo",
+        "VALUE": 118999.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Meath",
+        "VALUE": 220000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 232500.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 145000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Midland",
+        "VALUE": 128250.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Monaghan",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Offaly",
+        "VALUE": 111750.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Roscommon",
+        "VALUE": 80000.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Sligo",
+        "VALUE": 125375.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "South Dublin",
+        "VALUE": 298875.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 147384.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "South-West",
+        "VALUE": 186250.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Tipperary",
+        "VALUE": 130250.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Waterford City",
+        "VALUE": 132750.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Waterford County",
+        "VALUE": 157952.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "West",
+        "VALUE": 145210.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Westmeath",
+        "VALUE": 132805.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Wexford",
+        "VALUE": 140469.0
+    },
+    {
+        "YEAR": 2016,
+        "RPPI Region": "Wicklow",
+        "VALUE": 269875.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "National Median",
+        "VALUE": 232000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 128625.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Carlow",
+        "VALUE": 145500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Cavan",
+        "VALUE": 135890.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Clare",
+        "VALUE": 158500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Cork City",
+        "VALUE": 229000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Cork County",
+        "VALUE": 218000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Donegal",
+        "VALUE": 124500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Dublin",
+        "VALUE": 344625.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Dublin City",
+        "VALUE": 340499.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 521000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Fingal",
+        "VALUE": 317149.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Galway City",
+        "VALUE": 242000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Galway County",
+        "VALUE": 168474.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Kerry",
+        "VALUE": 155000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Kildare",
+        "VALUE": 273499.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 165000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Laois",
+        "VALUE": 154985.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Leitrim",
+        "VALUE": 96744.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Limerick City",
+        "VALUE": 155250.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Limerick County",
+        "VALUE": 182250.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Longford",
+        "VALUE": 95869.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Louth",
+        "VALUE": 183000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Mayo",
+        "VALUE": 135000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Meath",
+        "VALUE": 251000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 255891.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 157250.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Midland",
+        "VALUE": 145250.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Monaghan",
+        "VALUE": 146125.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Offaly",
+        "VALUE": 152500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Roscommon",
+        "VALUE": 103987.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Sligo",
+        "VALUE": 128131.5
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "South Dublin",
+        "VALUE": 312500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 162000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "South-West",
+        "VALUE": 210000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Tipperary",
+        "VALUE": 140000.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Waterford City",
+        "VALUE": 157500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Waterford County",
+        "VALUE": 182500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "West",
+        "VALUE": 161375.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Westmeath",
+        "VALUE": 154750.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Wexford",
+        "VALUE": 157500.0
+    },
+    {
+        "YEAR": 2017,
+        "RPPI Region": "Wicklow",
+        "VALUE": 303999.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "National Median",
+        "VALUE": 257475.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 135000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Carlow",
+        "VALUE": 175000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Cavan",
+        "VALUE": 147000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Clare",
+        "VALUE": 176500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Cork City",
+        "VALUE": 245500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Cork County",
+        "VALUE": 242250.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Donegal",
+        "VALUE": 129000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Dublin",
+        "VALUE": 366372.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Dublin City",
+        "VALUE": 375000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 529999.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Fingal",
+        "VALUE": 325000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Galway City",
+        "VALUE": 269500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Galway County",
+        "VALUE": 186475.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Kerry",
+        "VALUE": 164425.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Kildare",
+        "VALUE": 292000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 196625.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Laois",
+        "VALUE": 168625.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Leitrim",
+        "VALUE": 106625.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Limerick City",
+        "VALUE": 178500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Limerick County",
+        "VALUE": 198500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Longford",
+        "VALUE": 101500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Louth",
+        "VALUE": 214250.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Mayo",
+        "VALUE": 135000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Meath",
+        "VALUE": 270000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 271250.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 177000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Midland",
+        "VALUE": 162500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Monaghan",
+        "VALUE": 164500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Offaly",
+        "VALUE": 165000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Roscommon",
+        "VALUE": 116500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Sligo",
+        "VALUE": 141421.5
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "South Dublin",
+        "VALUE": 327737.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 181000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "South-West",
+        "VALUE": 223750.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Tipperary",
+        "VALUE": 153500.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Waterford City",
+        "VALUE": 167750.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Waterford County",
+        "VALUE": 191839.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "West",
+        "VALUE": 174375.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Westmeath",
+        "VALUE": 179000.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Wexford",
+        "VALUE": 172750.0
+    },
+    {
+        "YEAR": 2018,
+        "RPPI Region": "Wicklow",
+        "VALUE": 315000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "National Median",
+        "VALUE": 259500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 147750.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Carlow",
+        "VALUE": 172000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Cavan",
+        "VALUE": 155000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Clare",
+        "VALUE": 187000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Cork City",
+        "VALUE": 257500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Cork County",
+        "VALUE": 252500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Donegal",
+        "VALUE": 139000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Dublin",
+        "VALUE": 369000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Dublin City",
+        "VALUE": 358500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 517500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Fingal",
+        "VALUE": 342500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Galway City",
+        "VALUE": 283500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Galway County",
+        "VALUE": 212500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Kerry",
+        "VALUE": 174250.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Kildare",
+        "VALUE": 305862.5
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 198870.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Laois",
+        "VALUE": 181131.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Leitrim",
+        "VALUE": 110000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Limerick City",
+        "VALUE": 172500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Limerick County",
+        "VALUE": 218750.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Longford",
+        "VALUE": 128750.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Louth",
+        "VALUE": 211750.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Mayo",
+        "VALUE": 147500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Meath",
+        "VALUE": 289999.5
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 288125.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 185125.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Midland",
+        "VALUE": 176250.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Monaghan",
+        "VALUE": 170000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Offaly",
+        "VALUE": 166625.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Roscommon",
+        "VALUE": 130500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Sligo",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "South Dublin",
+        "VALUE": 345000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 184100.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "South-West",
+        "VALUE": 238750.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Tipperary",
+        "VALUE": 165500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Waterford City",
+        "VALUE": 172000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Waterford County",
+        "VALUE": 202750.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "West",
+        "VALUE": 183500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Westmeath",
+        "VALUE": 187500.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Wexford",
+        "VALUE": 180000.0
+    },
+    {
+        "YEAR": 2019,
+        "RPPI Region": "Wicklow",
+        "VALUE": 329999.5
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "National Median",
+        "VALUE": 260000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 144750.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Carlow",
+        "VALUE": 184000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Cavan",
+        "VALUE": 152500.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Clare",
+        "VALUE": 187500.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Cork City",
+        "VALUE": 263250.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Cork County",
+        "VALUE": 265750.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Donegal",
+        "VALUE": 140000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Dublin",
+        "VALUE": 382500.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Dublin City",
+        "VALUE": 366000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 528500.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Fingal",
+        "VALUE": 357749.5
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Galway City",
+        "VALUE": 280000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Galway County",
+        "VALUE": 231442.5
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Kerry",
+        "VALUE": 185625.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Kildare",
+        "VALUE": 323000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 209750.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Laois",
+        "VALUE": 185000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Leitrim",
+        "VALUE": 110000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Limerick City",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Limerick County",
+        "VALUE": 215250.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Longford",
+        "VALUE": 115000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Louth",
+        "VALUE": 215000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Mayo",
+        "VALUE": 140469.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Meath",
+        "VALUE": 285000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 295000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 185500.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Midland",
+        "VALUE": 176000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Monaghan",
+        "VALUE": 175000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Offaly",
+        "VALUE": 172500.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Roscommon",
+        "VALUE": 113100.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Sligo",
+        "VALUE": 146500.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "South Dublin",
+        "VALUE": 356875.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "South-West",
+        "VALUE": 250000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Tipperary",
+        "VALUE": 165000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Waterford City",
+        "VALUE": 175000.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Waterford County",
+        "VALUE": 219414.5
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "West",
+        "VALUE": 181250.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Westmeath",
+        "VALUE": 189987.5
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Wexford",
+        "VALUE": 191250.0
+    },
+    {
+        "YEAR": 2020,
+        "RPPI Region": "Wicklow",
+        "VALUE": 347750.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "National Median",
+        "VALUE": 281000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 162975.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Carlow",
+        "VALUE": 207750.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Cavan",
+        "VALUE": 173500.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Clare",
+        "VALUE": 208333.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Cork City",
+        "VALUE": 283000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Cork County",
+        "VALUE": 277500.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Donegal",
+        "VALUE": 143750.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Dublin",
+        "VALUE": 405250.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Dublin City",
+        "VALUE": 410000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 590000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Fingal",
+        "VALUE": 385000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Galway City",
+        "VALUE": 319375.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Galway County",
+        "VALUE": 235750.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Kerry",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Kildare",
+        "VALUE": 338313.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 235000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Laois",
+        "VALUE": 207475.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Leitrim",
+        "VALUE": 150000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Limerick City",
+        "VALUE": 197500.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Limerick County",
+        "VALUE": 236500.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Longford",
+        "VALUE": 140000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Louth",
+        "VALUE": 240000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Mayo",
+        "VALUE": 169250.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Meath",
+        "VALUE": 300023.5
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 318500.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 210000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Midland",
+        "VALUE": 195081.5
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Monaghan",
+        "VALUE": 175750.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Offaly",
+        "VALUE": 194000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Roscommon",
+        "VALUE": 148703.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Sligo",
+        "VALUE": 169200.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "South Dublin",
+        "VALUE": 372499.5
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 221000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "South-West",
+        "VALUE": 265000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Tipperary",
+        "VALUE": 186625.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Waterford City",
+        "VALUE": 195000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Waterford County",
+        "VALUE": 240000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "West",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Westmeath",
+        "VALUE": 212500.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Wexford",
+        "VALUE": 220000.0
+    },
+    {
+        "YEAR": 2021,
+        "RPPI Region": "Wicklow",
+        "VALUE": 385000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "National Median",
+        "VALUE": 311000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 188500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Carlow",
+        "VALUE": 227500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Cavan",
+        "VALUE": 190000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Clare",
+        "VALUE": 240000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Cork City",
+        "VALUE": 292887.5
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Cork County",
+        "VALUE": 304200.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Donegal",
+        "VALUE": 174500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Dublin",
+        "VALUE": 432500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Dublin City",
+        "VALUE": 427750.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 623750.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Fingal",
+        "VALUE": 401500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Galway City",
+        "VALUE": 317375.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Galway County",
+        "VALUE": 273750.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Kerry",
+        "VALUE": 232750.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Kildare",
+        "VALUE": 370000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 248500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Laois",
+        "VALUE": 225000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Leitrim",
+        "VALUE": 167250.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Limerick City",
+        "VALUE": 231000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Limerick County",
+        "VALUE": 257500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Longford",
+        "VALUE": 163750.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Louth",
+        "VALUE": 258250.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Mayo",
+        "VALUE": 189000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Meath",
+        "VALUE": 325950.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 344999.5
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 232000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Midland",
+        "VALUE": 223500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Monaghan",
+        "VALUE": 210000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Offaly",
+        "VALUE": 228750.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Roscommon",
+        "VALUE": 165000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Sligo",
+        "VALUE": 202500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "South Dublin",
+        "VALUE": 397482.5
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 246500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "South-West",
+        "VALUE": 293775.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Tipperary",
+        "VALUE": 195000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Waterford City",
+        "VALUE": 231500.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Waterford County",
+        "VALUE": 281000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "West",
+        "VALUE": 234000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Westmeath",
+        "VALUE": 245375.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Wexford",
+        "VALUE": 245000.0
+    },
+    {
+        "YEAR": 2022,
+        "RPPI Region": "Wicklow",
+        "VALUE": 423875.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "National Median",
+        "VALUE": 335000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 191975.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Carlow",
+        "VALUE": 244250.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Cavan",
+        "VALUE": 200500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Clare",
+        "VALUE": 248500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Cork City",
+        "VALUE": 311000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Cork County",
+        "VALUE": 332500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Donegal",
+        "VALUE": 182500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Dublin",
+        "VALUE": 455000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Dublin City",
+        "VALUE": 427500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 617500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Fingal",
+        "VALUE": 405500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Galway City",
+        "VALUE": 336500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Galway County",
+        "VALUE": 277500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Kerry",
+        "VALUE": 245222.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Kildare",
+        "VALUE": 395000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 272500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Laois",
+        "VALUE": 251800.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Leitrim",
+        "VALUE": 175000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Limerick City",
+        "VALUE": 237000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Limerick County",
+        "VALUE": 275000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Longford",
+        "VALUE": 170000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Louth",
+        "VALUE": 284375.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Mayo",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Meath",
+        "VALUE": 351250.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 371000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 243250.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Midland",
+        "VALUE": 240750.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Monaghan",
+        "VALUE": 212500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Offaly",
+        "VALUE": 236250.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Roscommon",
+        "VALUE": 179500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Sligo",
+        "VALUE": 200000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "South Dublin",
+        "VALUE": 420000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 266000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "South-West",
+        "VALUE": 315750.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Tipperary",
+        "VALUE": 217750.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Waterford City",
+        "VALUE": 227500.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Waterford County",
+        "VALUE": 297610.5
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "West",
+        "VALUE": 250000.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Westmeath",
+        "VALUE": 243250.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Wexford",
+        "VALUE": 263625.0
+    },
+    {
+        "YEAR": 2023,
+        "RPPI Region": "Wicklow",
+        "VALUE": 429999.5
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "National Median",
+        "VALUE": 361262.5
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Border Excluding Louth",
+        "VALUE": 211000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Carlow",
+        "VALUE": 259500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Cavan",
+        "VALUE": 223625.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Clare",
+        "VALUE": 274375.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Cork City",
+        "VALUE": 335000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Cork County",
+        "VALUE": 352500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Donegal",
+        "VALUE": 191000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Dublin",
+        "VALUE": 475000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Dublin City",
+        "VALUE": 464225.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "D\u00fan Laoghaire-Rathdown",
+        "VALUE": 654999.5
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Fingal",
+        "VALUE": 435750.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Galway City",
+        "VALUE": 375000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Galway County",
+        "VALUE": 307750.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Kerry",
+        "VALUE": 265000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Kildare",
+        "VALUE": 403000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Kilkenny",
+        "VALUE": 300000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Laois",
+        "VALUE": 265500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Leitrim",
+        "VALUE": 190250.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Limerick City",
+        "VALUE": 267750.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Limerick County",
+        "VALUE": 318375.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Longford",
+        "VALUE": 185000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Louth",
+        "VALUE": 322500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Mayo",
+        "VALUE": 227500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Meath",
+        "VALUE": 371250.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Mid-East including Louth",
+        "VALUE": 389984.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Mid-West including South Tipperary",
+        "VALUE": 271000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Midland",
+        "VALUE": 260000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Monaghan",
+        "VALUE": 230500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Offaly",
+        "VALUE": 254000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Roscommon",
+        "VALUE": 190000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Sligo",
+        "VALUE": 252500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "South Dublin",
+        "VALUE": 450750.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "South-East excluding South Tipperary",
+        "VALUE": 292000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "South-West",
+        "VALUE": 338875.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Tipperary",
+        "VALUE": 235375.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Waterford City",
+        "VALUE": 250000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Waterford County",
+        "VALUE": 335000.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "West",
+        "VALUE": 272500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Westmeath",
+        "VALUE": 285500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Wexford",
+        "VALUE": 287500.0
+    },
+    {
+        "YEAR": 2024,
+        "RPPI Region": "Wicklow",
+        "VALUE": 445000.0
     }
-}
+]
